@@ -12,19 +12,8 @@ n -> 1-
 sum = 1+2+3+...+10 = 55 */
 
 #include <stdio.h>
-int main() 
-{
-  int n, i;
-  int sum;
-
-  printf("Enter the end number : ");
-  scanf("%d", &n);
-
-  for(i = 1; i <= n; i++)
-    {
-      sum += n;
-    }
-  printf("Sum is : %d", sum);
+int main() {
+  printf("Nisitha\n");
   
   return 0;
 }
